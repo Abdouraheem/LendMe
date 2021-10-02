@@ -1,0 +1,36 @@
+  759  git add -A
+  760  git status
+  761  git commit -m "starter code files added"
+  762  git commit -m "Automate the Calculations"
+  763  git push origin main
+  764  git remote set-url origin https://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@github.com/Abdouraheem/LendMe.git/
+  765  git push origin main
+  766  git commit -m "Automate the Calculations"
+  767  git push origin main
+  768  git commit -m "Automate the Calculations"
+  769  git status
+  770  spyder
+  771  cd bootcamp_workspace/LendMe/
+  772  git status
+  773  git commit -m "Automate the Calculations""
+  774  git commit -m "Automate the Calculations"
+  775  git add loan_analyzer.py 
+  776  git commit -m "Automate the Calculations"
+  777  git add loan_analyzer.py 
+  778  git commit -m "Analyze Loan Data"
+  779  git add loan_analyzer.py 
+  780  git commit -m "Perform Financial Calculations"
+  781  git add loan_analyzer.py 
+  782  git commit -m "Conditionally filter lists of loans"
+  783  git status
+  784  git add loan_analyzer.py 
+  785  git commit -m "Save the Results"
+  786  git push origin main
+  787  git add loan_analyzer.py 
+  788  git commit -m "code review and styling"
+  789  git push origin main
+  790  cd bootcamp_workspace/LendMe/
+  791  git add -A
+  792  git status
+  793  git commit -m "csv file uploaded"
+  794  git push origin main
